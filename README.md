@@ -39,6 +39,20 @@ total sales by product, region, and month.Using =AVERAGEIF, =SUMIF,to find Total
 
 
 
+![image](https://github.com/user-attachments/assets/1eab4480-c0d6-459c-a324-f2f6e7c0d012)
+
+
+
+![image](https://github.com/user-attachments/assets/5400e33c-dc89-4319-9f24-5e4e4d79965f)
+
+
+### Data vua
+
+
+
+
+
+
 
 
    
