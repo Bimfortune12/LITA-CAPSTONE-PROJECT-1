@@ -32,6 +32,15 @@ EDA involved the exploring of Data to answer some operation about data such as:
 * What is the initial exploration of the sales data.
 * What is THE average sales per product
 * what is total revenue by region
+
+### Data Analysis
+This is when to Perform an initial exploration of the sales data by using code of formula to summarize 
+total sales by product, region, and month.Using =AVERAGEIF, =SUMIF,to find Total sales /Revenue=Quatity*Unitprice
+
+
+
+
+
    
   
 
