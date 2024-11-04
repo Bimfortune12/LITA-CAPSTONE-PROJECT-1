@@ -1,12 +1,38 @@
 # LITA-Capstone-Project
-This is where I documented my project assignment given after learning Data Analysis class with the Incubator Hub
+
 
 ## Project Title:Sales Performance Analysis for a Retail Store
+
+ [Project Overview](#project-overview)
+
+  Data Sources
+  
+  Tools Used
+
+  Data cleaning and Preparation
+
+  Exploratory Data Analysis
+
+  Data Analysis
+
+  Data visualization
+
+  SQL-Structured Query Language 
+
+   POwer BI
+
+  
+  
+  
+
+ 
+
 
 ## Project Overview
 This project is to analyzes the sales performance of a retail store and to explore sales data to uncover key insights such as top-selling products, regional 
 performance, and monthly sales trends and to provide actionable insight into the sale performance of the project. by analysing the various parameters in the data 
 The goal is to produce an interactive dashboard that highlights the findings.
+
 
 ### Data Sources
 The primary source of Date used here is Data sale csv and this is an opensource data that can freely downloaded from an open source or any other data repository
@@ -90,7 +116,7 @@ Region by Revenue:It;s shows that south generated the highest revenue with sale 
 
 
 
-### SQL: Structured Query Language 
+### SQL-Structured Query Language 
 
 SQL: Structured Query Language for Querying Data,Is used to interact with and mange database.It allows for querying, updating, inserting and deleting data in databases.
 
@@ -144,6 +170,18 @@ By loading the dataset into your SQL Server environment to write and validate qu
 * Region and Product by Revenue
 * Region by Revenue
 * Average Revenue by Region.
+
+
+  ![image](https://github.com/user-attachments/assets/656b9d5e-e672-49d5-a7b4-565f00ec2ab2)
+
+  The above sales Performance Analysis for a Retail Store dashboard shows below
+  * Quantity by Product
+  * Revenue/TotalSales
+  * Average Count of Customer
+  * Revenue/Total sales by Region
+  * UnitPrice by Product
+  * Count of product by Region.
+
   
 
 
