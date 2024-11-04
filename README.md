@@ -1,6 +1,7 @@
 # LITA-Capstone-Project
 
 
+
 ## Project Title:Sales Performance Analysis for a Retail Store
 
  [Project Overview](#project-overview)
