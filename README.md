@@ -5,29 +5,25 @@
 
  [Project Overview](#project-overview)
  
-
   [Data Source](#data-sources)
   
   [Tools Used](#tools-used)
 
-  Data cleaning and Preparation
+  [Data cleaning and Preparation](#data-cleaning-and-preparation)
 
-  Exploratory Data Analysis
+  [Exploratory Data Analysis](#exploratory-data-analysis)
 
-  Data Analysis
+  [Data Analysis](#data-analysis)
 
-  Data visualization
+  [Data visualization](#data-visualization)
 
-  SQL-Structured Query Language 
+  [SQL-Structured Query Language](#Sql-structured-query-language) 
 
-   POwer BI
+   [POwer BI](#power-bi)
 
   
   
   
-
- 
-
 
 ## Project Overview
 This project is to analyzes the sales performance of a retail store and to explore sales data to uncover key insights such as top-selling products, regional 
