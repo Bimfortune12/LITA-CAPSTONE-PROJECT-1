@@ -22,10 +22,17 @@ The primary source of Date used here is Data sale csv and this is an opensource 
 * POwer BI
 
 ### Data cleaning and Preparation
-In the phase of Data cleaning and preparation was ddone by the following.
-* Data loading and Identification
+In the phase of Data cleaning and preparation was done by the following.
+* Data loading and Inspecttion
 * Handling missing variation
-* cleaning formating and deleting all the duplicate found.
+* cleaning formating and deleting all the duplicate found
+
+### Exploratory Data Analysis
+EDA involved the exploring of Data to answer some operation about data such as:
+* What is the initial exploration of the sales data.
+* What is THE average sales per product
+* what is total revenue by region
+   
   
 
 
