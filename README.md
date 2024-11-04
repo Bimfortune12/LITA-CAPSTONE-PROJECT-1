@@ -60,9 +60,13 @@ Using pivot tables to summarize total sales by product, region, and month.
 
 ![image](https://github.com/user-attachments/assets/2bd0ae23-138f-4812-b159-c2a9c4d4667c)
 
-
  
 ![image](https://github.com/user-attachments/assets/accb51e7-2a7d-491c-b5aa-a2c62d825752)
+
+
+	
+![image](https://github.com/user-attachments/assets/15cad443-14d4-44cd-a4c0-ff2e8cf8fbd2)
+
 
 
 
