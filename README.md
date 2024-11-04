@@ -102,6 +102,70 @@ By loading the dataset into your SQL Server environment to write and validate qu
   ![image](https://github.com/user-attachments/assets/9b6ea22d-0389-4669-b56f-7a46d99e5aab)
 
 
+* Find the number of sales transactions in each region.
+
+  ![image](https://github.com/user-attachments/assets/7df11b32-379e-481b-a2ff-6e9d4f1578d5)
+
+* find the highest-selling product by total sales value.
+  
+  ![image](https://github.com/user-attachments/assets/278ce205-9d8d-47c0-998e-7849545448ff)
+
+* calculate total revenue per product.
+  
+ ![image](https://github.com/user-attachments/assets/a04d5d69-464d-428a-9844-237c1efdf49b)
+
+*  calculate monthly sales totals for the current year
+  
+  ![image](https://github.com/user-attachments/assets/f288173d-de0b-49b6-beac-df7f24393cba)
+
+  ![image](https://github.com/user-attachments/assets/313b0692-b892-4473-8bf4-d56346e5bcc2)
+
+
+*  Find the top 5 customers by total purchase amount
+
+  ![image](https://github.com/user-attachments/assets/b3fa51bc-756a-43e0-872c-9fce298db280)
+
+* calculate the percentage of total sales contributed by each region.
+
+  ![image](https://github.com/user-attachments/assets/1127a809-bdf0-4d19-8cc2-e01de7b1e039)
+
+*  identify products with no sales in the last quarter.
+
+  ![image](https://github.com/user-attachments/assets/c58b82ab-bfc6-40bf-a596-9b120ea151e0)
+
+
+ ###  POwer BI
+
+* Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and regional breakdowns
+
+  ![image](https://github.com/user-attachments/assets/0f256784-90fa-4b40-acf2-fb297522d96c)
+
+* The above table is showing sum of revenue
+* Region and Product by Revenue
+* Region by Revenue
+* Average Revenue by Region.
+  
+
+
+
+
+  
+
+  
+ 
+
+
+  
+ 
+
+ 
+
+  
+
+
+
+
+
 
 
  
