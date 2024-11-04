@@ -13,11 +13,22 @@ The primary source of Date used here is Data sale csv and this is an opensource 
 
 ### Tools Used
 
-* Miscrosft Excel for Data cleaning
-   * Analysis
-   * visualization
-* SQL: Structured Query Language
+* Miscrosft Excel
+   * for Data cleaning
+   * For Analysis
+   * For visualization
+     
+* SQL: Structured Query Language for Querying Data
 * POwer BI
+
+### Data cleaning and Preparation
+In the phase of Data cleaning and preparation was ddone by the following.
+* Data loading and Identification
+* Handling missing variation
+* cleaning formating and deleting all the duplicate found.
+  
+
+
        
 
 
