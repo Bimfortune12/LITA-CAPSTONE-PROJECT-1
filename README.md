@@ -9,6 +9,20 @@ performance, and monthly sales trends and to provide actionable insight into the
 The goal is to produce an interactive dashboard that highlights the findings.
 
 ### Data Sources
+The primary source of Date used here is Data sale csv and this is an opensource data that can freely downloaded from an open source or any other data repository
+
+### Tools Used
+
+* Miscrosft Excel for Data cleaning
+   * Analysis
+   * visualization
+* SQL: Structured Query Language
+* POwer BI
+       
+
+
+
+
 
 
 
