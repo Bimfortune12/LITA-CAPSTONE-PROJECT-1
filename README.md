@@ -27,12 +27,12 @@
 
 ## Project Overview
 This project is to analyzes the sales performance of a retail store and to explore sales data to uncover key insights such as top-selling products, regional 
-performance, and monthly sales trends and to provide actionable insight into the sale performance of the project. by analysing the various parameters in the data 
+performance, monthly sales trends and to provide actionable insight into the sale performance of the project. by analysing the various parameters in the data. 
 The goal is to produce an interactive dashboard that highlights the findings.
 
 
 ### Data Sources
-The primary source of Date used here is Data sale csv and this is an opensource data that can freely downloaded from an open source or any other data repository
+The primary source of Date used here is Data sale csv and this is an open source data that can freely downloaded from an open source or any other data repository
 
 ### Tools Used
 
@@ -74,7 +74,7 @@ total sales by product, region, and month.Using =AVERAGEIF, =SUMIF,to find Total
 
 Using pivot tables to summarize total sales by product, region, and month.
 
-### Pivot table
+### Pivot Table
 
  
 	
@@ -102,25 +102,25 @@ Below is different type of charts
 ![image](https://github.com/user-attachments/assets/6e7f2ea6-3365-44d2-8538-cdf120dad05f)
 
 ###  Sales Performance Analysis for a Retail Store 
-using the pivottable above shows the Total Sales by Product, shoes was the hihest product while shirt was not like shoesbut was the second highestproduct
+using the pivot table above shows the Total Sales by Product, shoes was the hihest product while shirt was not like shoes but was the second highest product
 while the lowest product is Socks
 
-Total Sales by Region: southis te highest performing region East was the second but the sale performance was not like the South.West was the lowest performing region while North performance was high than West.
+Total Sales by Region: south is the highest performing region East was the second but the sale performance was not like the South.West was the lowest performing region while North performance was high than West.
 
-Average Rvenue by Region: The charts showa that West generate the highest average revenue strong market presence it"s has the highest customer demand.East still perform well but could not meet West performance.Noerth shows a drop in performance while South is the underperformanve the lowest Region.
+Average Rvenue by Region: The charts showa that West generate the highest average revenue strong market presence it's has the highest customer demand.East still perform well but could not meet West performance.North shows a drop in performance while South is the underperforming region with the lowest .
 
-Region by Revenue:It;s shows that south generated the highest revenue with sale performance,East could not perform like the South butthe performance was significally wile North performance was low but West is the lowest performance.
+Region by Revenue:It;s shows that south generated the highest revenue with sale performance,East could not perform like the South but the performance was significally while North performance was low but West is the lowest performance.
 
 
 
 ### SQL-Structured Query Language 
 
-SQL: Structured Query Language for Querying Data,Is used to interact with and mange database.It allows for querying, updating, inserting and deleting data in databases.
+SQL: Structured Query Language for Querying Data,Is used to interact with and manage database.It allows for querying, updating, inserting and deleting data in databases.
 
-By loading the dataset into your SQL Server environment to write and validate queries  to Write queries to extract key insights based on the following questions.
+By loading the dataset into your SQL Server environment to write and validate queries, write queries to extract key insights based on the following questions.
+
 
 * Retrieve the total sales for each product category.
-
 
   ![image](https://github.com/user-attachments/assets/9b6ea22d-0389-4669-b56f-7a46d99e5aab)
 
