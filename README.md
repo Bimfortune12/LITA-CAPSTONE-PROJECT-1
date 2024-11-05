@@ -53,7 +53,7 @@ In the phase of Data cleaning and preparation was done by the following.
 ### Exploratory Data Analysis
 EDA involved the exploring of Data to answer some operation about data such as:
 * What is the initial exploration of the sales data.
-* What is THE average sales per product
+* What is the average sales per product
 * what is total revenue by region
 
 ### Data Analysis
